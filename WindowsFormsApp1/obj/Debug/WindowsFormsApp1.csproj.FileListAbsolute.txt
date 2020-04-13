@@ -1,0 +1,1 @@
+C:\GITHUB\test\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
